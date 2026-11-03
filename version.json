@@ -1,0 +1,10 @@
+
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/joksan90/update/releases/download/v1.1/VYRONIX_TV_v1.1.apk",
+  "sha256": "",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": false,
+  "releaseNotes": "Versión 1.1 de VYRONIX TV. Mejoras y sistema de activación de licencias."
+}
