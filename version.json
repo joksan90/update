@@ -1,10 +1,10 @@
 
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/joksan90/update/releases/download/v1.2/VYRONIXTV.apk",
-  "sha256": "38F19122846BBBB73BBF08D75CB6D6D4DBC0D9692ABA9253B4B2AA471120205B",
-  "minSupportedVersionCode": 1,
-  "forceUpdate": false,
-  "releaseNotes": "VYRONIX TV 1.2: mejoras del sistema de actualizaciones y compatibilidad con licencias."
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://raw.githubusercontent.com/joksan90/update/main/VYRONIXTV.apk",
+  "sha256": "98e29c5b31486b91cc8263e34bc9899133856ea0ef84a1218b51848ccd201bf5",
+  "minSupportedVersionCode": 5,
+  "forceUpdate": true,
+  "releaseNotes": "VYRONIX TV 1.4: mejoras de rendimiento y soporte para series."
 }
