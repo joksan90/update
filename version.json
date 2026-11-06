@@ -1,10 +1,9 @@
-
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://raw.githubusercontent.com/joksan90/update/main/VYRONIXTV.apk",
-  "sha256": "98e29c5b31486b91cc8263e34bc9899133856ea0ef84a1218b51848ccd201bf5",
-  "minSupportedVersionCode": 5,
+  "sha256": "aba63872ee56fd6ea4357a0c93304a2de036791e21ed49efd757c567d36c8e8d",
+  "minSupportedVersionCode": 6,
   "forceUpdate": true,
-  "releaseNotes": "VYRONIX TV 1.4: mejoras de rendimiento y soporte para series."
+  "releaseNotes": "Actualización VYRONIX TV 1.5."
 }
