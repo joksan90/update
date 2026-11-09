@@ -1,9 +1,10 @@
+
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/joksan90/update/main/VYRONIXTV.apk",
-  "sha256": "4ee7ca1bdb0235ef327554ad0cb429631762323608c46f7096087453945d82df",
-  "minSupportedVersionCode": 8,
+  "sha256": "ceb24ff5405d623953beda15a1beeec6626a6a9e0de305ca3418c68db803d04e",
+  "minSupportedVersionCode": 9,
   "forceUpdate": true,
-  "releaseNotes": "VYRONIX TV 1.7: control parental mejorado, PIN en cada reproducción adulta y pantalla de Inicio sin espacios vacíos."
+  "releaseNotes": "VYRONIX TV 1.8: corrección del PIN +18, protección de Trillium y Ginger.2 y mejora del cambio de canales."
 }
